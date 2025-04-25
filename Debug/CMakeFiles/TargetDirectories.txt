@@ -1,0 +1,7 @@
+/home/appuser/Data/esercitazioni/mesh/Debug/CMakeFiles/PolygonalMesh.dir
+/home/appuser/Data/esercitazioni/mesh/Debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazioni/mesh/Debug/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/esercitazioni/mesh/Debug/src/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazioni/mesh/Debug/src/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/esercitazioni/mesh/Debug/ExportParaview/CMakeFiles/edit_cache.dir
+/home/appuser/Data/esercitazioni/mesh/Debug/ExportParaview/CMakeFiles/rebuild_cache.dir
